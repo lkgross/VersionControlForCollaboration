@@ -1,7 +1,7 @@
 # Readme
 
 ## To contribute:
-- Fork this repository on GitHub.
+- Fork this repository on GitHub (use the fork button!).
 - Clone the newly created fork to your local computer.
 - Make a new branch for the change you want to add.
 - Make the changes and commit them.
